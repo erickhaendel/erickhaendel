@@ -9,7 +9,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 Outside of [GitHub](https://github.com/mianjawadahmad/), You can **find me. Currently I'm **free to contribute**
 [![Twitter: MianJawadAhmad](https://img.shields.io/twitter/follow/erickhaendel?style=social)](https://twitter.com/erickhaendell)
 [![Linkedin: MianJawadAhmad](https://img.shields.io/badge/-erickhaendel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/erickhaendel/)](https://www.linkedin.com/in/erickhaendel/)
