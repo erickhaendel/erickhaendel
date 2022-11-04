@@ -21,9 +21,9 @@
 
 
   ##
-  [![Stats](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true)](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true)
+  [![Stats](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true&https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true&count_private=true)
   
-  [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&langs_count=7)](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&langs_count=7)
+  [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&count_private=true&langs_count=7)](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&langs_count=7&count_private=true)
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=erickhaendel)](https://git.io/streak-stats)
 ##
