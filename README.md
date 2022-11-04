@@ -24,6 +24,8 @@
   [![Stats](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true)](https://github-readme-stats.vercel.app/api?username=erickhaendel&show_icons=true)
   
   [![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&langs_count=7)](https://github-readme-stats.vercel.app/api/top-langs/?username=erickhaendel&layout=compact&langs_count=7)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=erickhaendel)](https://git.io/streak-stats)
 ##
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=erickhaendel&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=erickhaendel&no-frame=true&row=1&&margin-w=20&no-bg=true)
